@@ -1,8 +1,7 @@
 --upgrade pip
 streamlit
-pandas
-numpy
 joblib
-imblearn
+pandas
 scikit-learn
-nltk
+streamlit
+imblearn
