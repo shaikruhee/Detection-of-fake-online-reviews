@@ -1,7 +1,2 @@
---upgrade pip
 streamlit
 joblib
-pandas
-numpy
-scikit-learn
-imbalanced-learn
