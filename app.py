@@ -1,3 +1,6 @@
+import subprocess
+subprocess.run(["pip", "install", "joblib"])
+import joblib
 import streamlit as st
 import joblib
 import pandas as pd
