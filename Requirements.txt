@@ -1,0 +1,7 @@
+streamlit
+joblib
+pandas
+scikit-learn
+imblearn
+numpy
+python==3.12
