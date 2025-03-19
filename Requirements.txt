@@ -1,7 +1,7 @@
 streamlit
-joblib
 pandas
 scikit-learn
 imblearn
+joblib
 numpy
 python==3.12
