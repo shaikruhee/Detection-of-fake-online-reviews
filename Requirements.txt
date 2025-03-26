@@ -3,3 +3,11 @@ joblib
 pandas
 scikit-learn
 numpy
+
+# Troubleshooting Steps (Optional)
+# 1. Ensure the 'requirements.txt' is up to date and pushed to GitHub.
+# 2. In Streamlit Community Cloud, click 'Manage App' and select 'Rerun' to reinstall dependencies.
+# 3. Check the logs in 'Manage App' if any errors occur.
+# 4. Verify 'joblib' is installed by running 'pip show joblib' locally.
+
+
