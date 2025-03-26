@@ -1,4 +1,4 @@
-pip
+!pip install joblib
 streamlit
 joblib
 pandas
